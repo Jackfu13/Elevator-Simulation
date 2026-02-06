@@ -65,7 +65,7 @@ public class ElevatorSimulation extends Application {
 	private Rectangle elevator;
 
 	/** The bp. */
-	private BorderPane bp;
+	private BorderPane bprererer;
 
 	/** The state label. */
 	private Label stateLabel;
